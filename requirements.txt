@@ -1,0 +1,4 @@
+mss
+numpy
+opencv-python
+pypiwin32
