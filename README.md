@@ -7,7 +7,7 @@ after doing that accuratley you have to change some stuff within the game's sett
 - The enemies must be in **MAGENTA**, you can change that from settings > accessibility > blind colors and then set targets to magenta.
 - Overwatch's client must be in the fullscreen windowed fullscreen mode
 - Targets will only be targeted if they're within the defined `MAX_TARGET_DISTANCE`
-and the `Caps Lock` key is held down
+and the `Caps Lock` key is held down (you can change this if you want)
 
 
 If you happen to face any problem feel free to contact me on discord: Ramsey#0605
