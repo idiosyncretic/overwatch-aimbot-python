@@ -43,7 +43,7 @@ def mouse_move(x, y):
 
 # Determines if the Caps Lock key is pressed in or not
 def is_activated():
-    return win32api.GetAsyncKeyState(0x01) != 1
+    return win32api.GetAsyncKeyState(0x14) != 0
 
 
 def locate_target(target):
@@ -77,7 +77,8 @@ def locate_target(target):
         # draw a small white circle at their center of mass
         cv2.circle(frame, (cx, cy), 7, (255, 255, 255), -1)
 
-
+print("Running...")
+print("the `Caps Lock` key is held down")
 # Main lifecycle
 while True:
     frame = np.asarray(sct.grab(dimensions))
