@@ -78,7 +78,9 @@ def locate_target(target):
         cv2.circle(frame, (cx, cy), 7, (255, 255, 255), -1)
 
 print("Running...")
-print("the `Caps Lock` key is held down")
+print("Make sure to read the README file for setting it up correctly")
+print("made by Ramsey \n feel free to contact me on discord if you would like to suggest any idea to add to this project: Ramsey#0605")
+ 
 # Main lifecycle
 while True:
     frame = np.asarray(sct.grab(dimensions))
