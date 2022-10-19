@@ -11,3 +11,5 @@ and the `Caps Lock` key is held down (you can change this if you want)
 
 
 If you happen to face any problem feel free to contact me on discord: Ramsey#0605
+
+This is completely for an educational purpose.
