@@ -1,6 +1,6 @@
 # How to install?
 You first of all have to install [Python](https://www.python.org/downloads/)
-Now you have got to install the required libs, you can do that by opening a terminal then head to this file's location and type: `pip install -r requirements`
+Now you have got to install the required libs, you can do that by opening a terminal then head to this file's location and type: `pip install -r requirements.txt`
 after doing that accuratley you have to change some stuff within the game's setting for this to work without any troubles
 
 # Important:
