@@ -10,6 +10,6 @@ after doing that accuratley you have to change some stuff within the game's sett
 and the `Caps Lock` key is held down (you can change this if you want)
 
 
-If you happen to face any problem feel free to contact me on discord: meth#0605
+If you happen to face any problem feel free to contact me on discord: quantumsuperposition
 
 This is completely for an educational purpose.
